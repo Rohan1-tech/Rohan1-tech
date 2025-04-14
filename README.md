@@ -1,27 +1,45 @@
 ## Hi there 👋
 
-Rohan Pagare
-GitHub | LinkedIn
+# Hi there 👋 I'm Rohan Pagare
 
-🧑‍💻 Emerging Data Scientist
-A results-driven data scientist with a solid foundation in machine learning, statistical modeling, and real-world data analysis. I am passionate about solving complex problems through data and delivering scalable, data-driven solutions in high-impact environments. I am currently deepening my expertise in deploying machine learning models, focusing on containerizing models with Docker 🐳, designing real-time APIs 🌐, and exploring scalable deployment options using Kubernetes ☸️.
+[![GitHub](https://img.shields.io/badge/GitHub-rohan1--tech-black?logo=github)](https://github.com/Rohan1-tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rohan--pagare--1bab0a2a9-blue?logo=linkedin)](https://linkedin.com/in/rohan-pagare-1bab0a2a9)
 
-Specializations:
+---
 
-Distributed Machine Learning
+🧑‍💻 **Emerging Data Scientist**
 
-Model Deployment & Scalability
+A results-driven data scientist with a solid foundation in **machine learning**, **statistical modeling**, and **real-world data analysis**. I am passionate about solving complex problems through data and delivering **scalable, data-driven solutions** in high-impact environments.
 
-Real-Time API Design
+Currently deepening my expertise in:
+- 🐳 Containerizing models with **Docker**
+- 🌐 Designing real-time **APIs**
+- ☸️ Exploring scalable deployment using **Kubernetes**
 
-Technical Skills:
+---
 
-Programming: Python 🐍, SQL
+### 🧠 Specializations:
+- Distributed Machine Learning  
+- Model Deployment & Scalability  
+- Real-Time API Design  
 
-Tools & Technologies: Docker 🐳, Kubernetes ☸️, TensorFlow, PyTorch, Scikit-learn
+---
 
-Databases: MySQL, PostgreSQL, MongoDB
+### 🛠️ Technical Skills:
 
-Data Analysis: Pandas, Numpy, Matplotlib 📊, Seaborn
+**Programming:**  
+Python 🐍, SQL
 
-Version Control: Git, GitHub
+**Tools & Technologies:**  
+Docker 🐳, Kubernetes ☸️, TensorFlow, PyTorch, Scikit-learn
+
+**Databases:**  
+MySQL, PostgreSQL, MongoDB
+
+**Data Analysis & Visualization:**  
+Pandas, Numpy, Matplotlib 📊, Seaborn
+
+**Version Control:**  
+Git, GitHub
+
+---
