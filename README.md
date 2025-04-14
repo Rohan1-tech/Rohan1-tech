@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**Rohan1-tech/Rohan1-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Rohan Pagare
+GitHub | LinkedIn
 
-Here are some ideas to get you started:
+🧑‍💻 Emerging Data Scientist
+A results-driven data scientist with a solid foundation in machine learning, statistical modeling, and real-world data analysis. I am passionate about solving complex problems through data and delivering scalable, data-driven solutions in high-impact environments. I am currently deepening my expertise in deploying machine learning models, focusing on containerizing models with Docker 🐳, designing real-time APIs 🌐, and exploring scalable deployment options using Kubernetes ☸️.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Specializations:
+
+Distributed Machine Learning
+
+Model Deployment & Scalability
+
+Real-Time API Design
+
+Technical Skills:
+
+Programming: Python 🐍, SQL
+
+Tools & Technologies: Docker 🐳, Kubernetes ☸️, TensorFlow, PyTorch, Scikit-learn
+
+Databases: MySQL, PostgreSQL, MongoDB
+
+Data Analysis: Pandas, Numpy, Matplotlib 📊, Seaborn
+
+Version Control: Git, GitHub
